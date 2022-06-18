@@ -2,7 +2,7 @@
 
 ## Autor
 
-- Gregpry Jose Gomez Enriquez
+- Gregory Jose Gomez Enriquez
 - 82169431
 - enriquezgregory20@gmail.com
 
